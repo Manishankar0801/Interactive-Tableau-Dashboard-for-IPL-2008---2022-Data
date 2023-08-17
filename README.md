@@ -1,6 +1,13 @@
 # Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data
 
-## IPL Dashboard Analysis : https://public.tableau.com/app/profile/mani.shankar.janumpalli/viz/IPLDashboardAnalysis/TeamStatistics
+IPL Dashboard Analysis Player:
+https://public.tableau.com/app/profile/mani.shankar.janumpalli/viz/IPLDashboardAnalysisPlayer/PlayerStatistics
+![Player Statistics](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/1f090415-db91-4fe1-ae39-1998c6f2e3cc)
+
+IPL Dashboard Analysis:
+https://public.tableau.com/app/profile/mani.shankar.janumpalli/viz/IPLDashboardAnalysis/TeamStatistics
+![Team Statistics](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/9b08c07b-1b4a-44b4-9b53-06861ba3f743)
+
 
 The dashboard is made from the IPL dataset. There are two dashboards created Team Statistics to analyze the individual team performance over the period 2008 – 2022 and the other dashboard player statistics is used to analyze the performance of players over the period 2008 – 2022.
 
