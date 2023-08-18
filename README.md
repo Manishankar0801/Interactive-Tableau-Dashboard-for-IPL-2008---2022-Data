@@ -20,10 +20,12 @@ The dashboard is made from the IPL dataset. There are two dashboards created Tea
 There are a total of 11 visualizations created to analyze the player’s and team performance.
 
 ### **Team Statistics dashboard has the four visualizations which are used to analyze the performance of team:**
+```
 1. Total Number of Wins by Each Team: This visualization shows the number of matches won by each team in the IPL from 2008 – 2022.
 2. Win Comparison: This visualization compares the number of runs scored and number of wickets taken by each team in IPL from 2008 – 2022.
 3. Matches won based on the Toss Decision: This visualization shows the number of matches won by each team based on their toss decision (matches won by the team when they won the toss and decided to bat first/ field first) in IPL from 2008 – 2022.
 4. Scoring rate in powerplay and in death overs: This visualization is used to analyze the team performance i.e., runs scored by each team in the powerplay(1-6 overs) and death overs (16-20) in IPL from 2008 - 2022.
+```
 
 ### **Player Statistics dashboard has the seven visualizations which are used to analyze the performance of player:**
 ```
@@ -38,16 +40,16 @@ There are a total of 11 visualizations created to analyze the player’s and tea
 
 ### **List of final set of questions**
 ```
-1.	Who are the top 10 highest run scorers in the history of IPL?
-2.	Who are the top 10 leading wicket takers in the history of IPL?
-3.	Who are the top 10 batsmans to hit highest number of boundaries in the history of IPL?
-4.	Who are the top 10 batsmans to hit highest number of sixes in the history of IPL?
-5.	Who are the top 10 players to get the most number of player of the match awards?
-6.	Total numbers of wins by each team in the IPL till now?
-7.	What are the runs scored and wickets taken by each team in all the seasons?
-8.	Who are the top 10 players to play most number of matches in the IPL?
-9.	How many number of matches won by each team based on their Toss Decision?
-10.	Death Over(16-20) and Powerplay(1-6) Scoring rates of each team who has played minimum of 100 matches?
+1. Who are the top 10 highest run scorers in the history of IPL?
+2. Who are the top 10 leading wicket takers in the history of IPL?
+3. Who are the top 10 batsmans to hit highest number of boundaries in the history of IPL?
+4. Who are the top 10 batsmans to hit highest number of sixes in the history of IPL?
+5. Who are the top 10 players to get the most number of player of the match awards?
+6. Total numbers of wins by each team in the IPL till now?
+7. What are the runs scored and wickets taken by each team in all the seasons?
+8. Who are the top 10 players to play most number of matches in the IPL?
+9. How many number of matches won by each team based on their Toss Decision?
+10. Death Over(16-20) and Powerplay(1-6) Scoring rates of each team who has played minimum of 100 matches?
 ```
 
 ### **Dashboard Plots:**
