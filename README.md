@@ -1,14 +1,16 @@
 # Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data
 
-IPL Dashboard Analysis Player:
-
+## **IPL Dashboard Analysis Player:**
+```
 https://public.tableau.com/app/profile/mani.shankar.janumpalli/viz/IPLDashboardAnalysisPlayer/PlayerStatistics
+```
 
 ![Player Statistics](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/1f090415-db91-4fe1-ae39-1998c6f2e3cc)
 
-IPL Dashboard Analysis:
-
+## **IPL Dashboard Analysis:**
+```
 https://public.tableau.com/app/profile/mani.shankar.janumpalli/viz/IPLDashboardAnalysis/TeamStatistics
+```
 
 ![Team Statistics](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/9b08c07b-1b4a-44b4-9b53-06861ba3f743)
 
@@ -17,13 +19,14 @@ The dashboard is made from the IPL dataset. There are two dashboards created Tea
 
 There are a total of 11 visualizations created to analyze the player’s and team performance.
 
-Team Statistics dashboard has the four visualizations which are used to analyze the performance of team:
+### **Team Statistics dashboard has the four visualizations which are used to analyze the performance of team:**
 1. Total Number of Wins by Each Team: This visualization shows the number of matches won by each team in the IPL from 2008 – 2022.
 2. Win Comparison: This visualization compares the number of runs scored and number of wickets taken by each team in IPL from 2008 – 2022.
 3. Matches won based on the Toss Decision: This visualization shows the number of matches won by each team based on their toss decision (matches won by the team when they won the toss and decided to bat first/ field first) in IPL from 2008 – 2022.
 4. Scoring rate in powerplay and in death overs: This visualization is used to analyze the team performance i.e., runs scored by each team in the powerplay(1-6 overs) and death overs (16-20) in IPL from 2008 - 2022.
 
-Player Statistics dashboard has the seven visualizations which are used to analyze the performance of player:
+### **Player Statistics dashboard has the seven visualizations which are used to analyze the performance of player:**
+```
 1. Leading Run Scorers: This visualization shows the top 10 players with the highest number of runs in IPL from 2008 – 2022.
 2. Leading Wicket Takers: This visualization shows the top 10 players with the highest number of wickets in IPL from 2008 – 2022.
 3. Player of the match: This visualization shows the top 10 players who has performed well in the match and won the highest number of player of the match awards in IPL from 2008 – 2022.
@@ -31,8 +34,10 @@ Player Statistics dashboard has the seven visualizations which are used to analy
 5. Most Number of 6’s: This visualization helps to know the player who had hit the highest number of sixes in IPL from 2008 – 2022.
 6. Most Matches: Players who had played highest number of matches in IPL from 2008 – 2022 is shown in this visualization.
 7. Most 4’s and 6’s: Players with most number of 4’s and 6’s combined in IPL from 2008 – 2022 is shown in this visualization.
+```
 
-List of final set of questions
+### **List of final set of questions**
+```
 1.	Who are the top 10 highest run scorers in the history of IPL?
 2.	Who are the top 10 leading wicket takers in the history of IPL?
 3.	Who are the top 10 batsmans to hit highest number of boundaries in the history of IPL?
@@ -43,8 +48,9 @@ List of final set of questions
 8.	Who are the top 10 players to play most number of matches in the IPL?
 9.	How many number of matches won by each team based on their Toss Decision?
 10.	Death Over(16-20) and Powerplay(1-6) Scoring rates of each team who has played minimum of 100 matches?
+```
 
-Dashboard Plots:
+### **Dashboard Plots:**
 
 1.	Who are the top 10 highest run scorers in the history of IPL?
     ```
