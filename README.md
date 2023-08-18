@@ -47,63 +47,74 @@ List of final set of questions
 Dashboard Plots:
 
 1.	Who are the top 10 highest run scorers in the history of IPL?
-Bar char is used visualize the top 10 highest run scorers in the IPL.
-Pre attentive attribute – length
-Color – blue
+    ```
+  	Bar char is used visualize the top 10 highest run scorers in the IPL.
+    Pre attentive attribute – length
+    Color – blue
+    ```
 
     ![image](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/e1d43b8c-80d7-4f51-9ff3-71b21a611fd4)
 
 
-2.	Who are the top 10 leading wicket takers in the history of IPL?
-Line Chart is used as visualization to show top 10 leading wicket takers in IPL
-
+3.	Who are the top 10 leading wicket takers in the history of IPL?
+    ```
+    Line Chart is used as visualization to show top 10 leading wicket takers in IPL
+    ```
     ![image](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/796b3986-79fd-4931-9936-70ff56403b10)
 
 
-3.	Who are the top 10 batsmans to hit highest number of boundaries in the history of IPL?
-Bar char is used visualize the top 10 batsmans to hit more 4’s in IPL
-Pre attentive attribute – Color and length
+4.	Who are the top 10 batsmans to hit highest number of boundaries in the history of IPL?
+    ```
+  	Bar char is used visualize the top 10 batsmans to hit more 4’s in IPL
+    Pre attentive attribute – Color and length
+    ```
 
     ![image](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/78c4cf53-5204-430a-be33-71bd68919022)
 
 
-4.	Who are the top 10 batsmans to hit highest number of sixes in the history of IPL?
+5.	Who are the top 10 batsmans to hit highest number of sixes in the history of IPL?
 
     ![image](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/107eb16e-7f75-4e8e-b022-1bc3ee90c87f)
 
 
-5.	Who are the top 10 players to get the most number of player of the match awards?
-Bar char is used visualize the top 10 highest run scorers in the IPL.
-Pre attentive attribute – length
-Color – blue
+6.	Who are the top 10 players to get the most number of player of the match awards?
+    ```
+    Bar char is used visualize the top 10 highest run scorers in the IPL.
+    Pre attentive attribute – length
+    Color – blue
+    ```
 
     ![image](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/5027e6dd-6617-4cf0-9ac5-af9bc5f4689c)
 
 
-6.	Total numbers of wins by each team in the IPL till now?
-Bar char is used visualize the top 10 highest run scorers in the IPL.
-Pre attentive attribute – length
-Color – blue
+7.	Total numbers of wins by each team in the IPL till now?
+    ```
+    Bar char is used visualize the top 10 highest run scorers in the IPL.
+    Pre attentive attribute – length
+    Color – blue
+    ```
 
     ![image](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/e994d101-1820-4bf9-b63b-5f9cc4342d1d)
 
 
-7.	What are the runs scored and wickets taken by each team in all the seasons?
-Butterflychart is used to visualize the runs scored and wickets taken by each team.
-
+8.	What are the runs scored and wickets taken by each team in all the seasons?
+    ```
+  	Butterflychart is used to visualize the runs scored and wickets taken by each team.
+    ```
     ![image](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/e18156de-be25-47ed-a9d7-38c889c67167)
 
-8.	Who are the top 10 players to play most number of matches in the IPL?
+10.	Who are the top 10 players to play most number of matches in the IPL?
 
     ![image](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/54f7da5c-9b91-4af3-9724-5dbbe31032e3)
 
-9.	How many number of matches won by each team based on their Toss Decision? Stacked Bar char is used as the visualization to show the number of matches won by each team based on their Toss Decision
+11.	How many number of matches won by each team based on their Toss Decision? Stacked Bar char is used as the visualization to show the number of matches won by each team based on their Toss Decision
 
     ![image](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/1314e3e8-dd29-4abf-8026-4d0ccdbda5d3)
 
-10.	Death Over(16-20) and Powerplay(1-6) Scoring rates of each team who has played minimum of 100 matches?
-Horizational bar chart is used to show the visualization for the death over and powerplay scoring rate of each team.
-
+12.	Death Over(16-20) and Powerplay(1-6) Scoring rates of each team who has played minimum of 100 matches?
+    ```
+   	Horizational bar chart is used to show the visualization for the death over and powerplay scoring rate of each team.
+    ```
     ![image](https://github.com/Manishankar0801/Interactive-Tableau-Dashboard-for-IPL-2008---2022-Data/assets/91050146/b00d7421-a64b-4591-b8b9-21d6f3aa3633)
 
 
